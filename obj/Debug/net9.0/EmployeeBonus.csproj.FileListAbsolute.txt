@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\bin\Debug\net9.0\EmployeeBonus.exe
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\bin\Debug\net9.0\EmployeeBonus.deps.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\bin\Debug\net9.0\EmployeeBonus.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\bin\Debug\net9.0\EmployeeBonus.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\bin\Debug\net9.0\EmployeeBonus.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\refint\EmployeeBonus.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\EmployeeBonus.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\EmployeeBonus\obj\Debug\net9.0\ref\EmployeeBonus.dll
